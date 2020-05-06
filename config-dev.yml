@@ -1,2 +1,2 @@
 config:
-  dev: dev配置文件2
+  dev: dev配置文件,动态刷新配置
