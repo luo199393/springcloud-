@@ -1,2 +1,2 @@
 config:
-  dev: dev配置文件,动态刷新配置2
+  dev: dev配置文件,动态刷新配置,使用bus广播更新
